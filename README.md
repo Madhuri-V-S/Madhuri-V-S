@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on FrontEnd Projects
-- 📫 How to reach me - Email: madhurivs06@gmail.com & IG: @coding._.girl
+- 📫 How to reach me - Email: madhurivs06@gmail.com & IG: @madhurivs45
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
